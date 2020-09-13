@@ -1,0 +1,15 @@
+.navbar{
+    padding: .5rem 1.5rem !important; 
+    background: #FFFFFF; 
+    min-height: 100px;
+}
+
+.navbar .mr-auto a{
+    font-size: 34px;
+    color: #000000 !important; 
+    line-height: 41px;
+}
+
+.navbar button:focus{
+    outline: none;
+}

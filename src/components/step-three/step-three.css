@@ -1,0 +1,20 @@
+.form-three-step h2{
+    color: #000000;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 31px;
+    margin-top: 10px;
+}
+
+.form-three-step .col-lg-4{
+    height: 520px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-three-step .col-lg-4 img{
+    width: 52px;
+height: 52px;
+}

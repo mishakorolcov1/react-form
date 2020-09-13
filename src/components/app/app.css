@@ -1,0 +1,32 @@
+body{
+    background: #F6F8FF;
+    font-family: 'Helvetica Neue';
+    color: #101D94;
+    min-width: 300px;
+}
+
+
+@font-face {
+	font-family: 'Helvetica Neue';
+	src: url('../app/font/HelveticaNeueCyr-Roman.eot');
+	src: local('☺'), url('../app/font/HelveticaNeueCyr-Roman.woff') format('woff'), url('../app/font/HelveticaNeueCyr-Roman.ttf') format('truetype'), url('../app/font/HelveticaNeueCyr-Roman.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Helvetica Neue';
+	src: url('../app/font/HelveticaNeueCyr-Light.eot');
+	src: local('☺'), url('../app/font/HelveticaNeueCyr-Light.woff') format('woff'), url('../app/font/HelveticaNeueCyr-Light.ttf') format('truetype'), url('../app/font/HelveticaNeueCyr-Light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+
+
+
+
+ 
+
+
